@@ -7,7 +7,7 @@ app = FastAPI()
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000", "http://localhost:8080"],
+    allow_origins=["https://torre-sw-frontend-product-search.vercel.app/", "https://torre-sw-frontend-product-search.vercel.app"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
