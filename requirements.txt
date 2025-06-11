@@ -1,2 +1,2 @@
-Python==3.11.11
+Python==3
 FastApi==0.115.8
