@@ -1,0 +1,9 @@
+Ask the LLM to create people's dummy data for in-memory database up to 100 listings,
+skills can varies or similar across individuals using sample below:
+# Dummy in-memory database
+people_data = [
+    {"id": 1, "name": "Alice Johnson", "skills": "Python, SQL", "location": "NYC", "job_title": "Data Analyst", "profile_summary": "Experienced data analyst with SQL focus."},
+    {"id": 2, "name": "Bob Smith", "skills": "JavaScript, React", "location": "LA", "job_title": "Frontend Developer", "profile_summary": "React.js developer with UX focus."}
+]
+Tool: ChatGpt
+model: Gpt- 4.0
