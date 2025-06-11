@@ -15,8 +15,8 @@ app.add_middleware(
 
 
 #initialize dummy database for 100 skills workers
-first_names = ["Alice","Bob","Charlie","Diana","Ethan","Fiona","Hannah","Isaac","Jane"]
-last_names = ["Johnson","Smith","Lee","Prince","Hunt","Glenanne","Bluth","Baker","Newton","Doe"]
+first_names = ["Alice","Bob","Charlie","Diana","Ethan","Fiona","Hannah","Isaac","Jane","John","kelvin","Morgan"]
+last_names = ["Johnson","Smith","Lee","Prince","Hunt","Glenanne","Bluth","Baker","Newton","Doe","Harry","Torre"]
 
 skills_list = ["Python", "SQL", "JavaScript", "React", "Django", "Flask", "Pandas", "NumPy", "Node.js", "HTML", "CSS", "Java", "C++"]
 
